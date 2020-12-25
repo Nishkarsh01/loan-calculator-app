@@ -7,6 +7,10 @@ This is a Loan Calculator Application created using Html, Css, Javascript, and B
 ## Screenshots
 ![App Screenshot](screenshots/1.png)
 
+## Live Demo 
+
+ [https://nishkarsh01.github.io/loan-calculator-app/?](https://nishkarsh01.github.io/loan-calculator-app/?)
+
 ## Developed using
 * Html
 * css
